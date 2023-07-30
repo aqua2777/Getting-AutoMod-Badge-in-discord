@@ -1,6 +1,5 @@
 # Getting-AutoMod-Bandage-in-discord
 # English 
-🇬🇧
 ## How to get the badge
 
 To get the **auto-moderation** badge, your bot needs to create **100 auto-moderation rules**. The main difficulty is that only **9 rules** can be created on one server. In general, the bot will have to create rules on **12 servers**. The fact that bots can create their own servers can play into our hands. But the bot can only create servers when it has **less than 10 servers**. Therefore, in order for the bot to create **10 servers**, it must **have no servers at all**. You can kick the bot from the servers, perform this manipulation, and then invite him again, or you can simply invite him to the servers on which you want him to create these rules.
@@ -28,7 +27,7 @@ After execution, you will see in the console the number of rules created by the 
 This script will create rules on the servers that you specified in the configuration.
 After its execution, you will also see in the console the number of rules created by the bot.
 
-# Русский 🇷🇺
+# Русский
 ## Как получить значек
 
 Для получения значка **автомодерации** необходимо, чтобы ваш бот создал **100 правил** автомодерации. Главная трудность в том, что на одном сервере можно создать только **9 правил**. В общем бот должен будет создать правила на **12 серверах**. Нам на руку может сыграть то, что боты умеют создавать свои сервера. Но бот может создавать сервера только тогда, когда имеет **меньше 10ти серверов**. Следовательно для того, чтобы бот создал **10 серверов**, он должен **не иметь серверов вовсе**. Вы можете выгнать бота с серверов, провернуть эту манипуляцию, а потом пригласить его заново, а можете просто пригласить его на сервера на которых вы хотите чтобы он создал эти правила. 
