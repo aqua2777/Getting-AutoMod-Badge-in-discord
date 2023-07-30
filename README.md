@@ -19,7 +19,7 @@ First, let's fill in the `config.json` file here you need to insert your bot tok
 
 ## First script.
 `npm run guild`
-This script will create the maximum possible number of servers through the bot.
+This script will create the maximum possible number of servers and rules on these servers through the bot.
 After execution, you will see in the console the number of rules created by the bot.
 
 ## Second script
@@ -47,7 +47,7 @@ After its execution, you will also see in the console the number of rules create
 
 ## Первый скрипт. 
 `npm run guild`
-Данный скрипт создаст через бота максимально возможное количество серверов.
+Данный скрипт создаст через бота максимально возможное количество серверов и правила на этих серверах.
 После выполнения вы увидете в консоли количество созданных ботом правил.
 
 ## Второй скрипт
