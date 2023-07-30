@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "guilds": "node create-guilds.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
