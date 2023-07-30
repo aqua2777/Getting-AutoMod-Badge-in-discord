@@ -15,7 +15,7 @@ First, let's fill in the `config.json` file here you need to insert your bot tok
 3. We invite the bot to specially created servers and add their id to the list
 4. Run the second script
 5. If during these manipulations the bot created more than 100 rules, then you will receive a badge within 24 hours.
-6. After receiving the server icon, you can delete
+6. After receiving the badge, the server can be deleted
 
 ## First script.
 `npm run guild`
@@ -43,7 +43,7 @@ After its execution, you will also see in the console the number of rules create
 3. Приглашаем бота на специально созданные сервера и заносим их id в список
 4. Выполняем второй скрипт
 5. Если в ходе этих манипуляций бот создал больше 100 правил, то значек вы получите в течении 24 часов.
-6. После получения значка сервера можно удалить
+6. После получения значка, сервера можно удалить
 
 ## Первый скрипт. 
 `npm run guild`
