@@ -18,7 +18,7 @@ First, let's fill in the `config.json` file here you need to insert your bot tok
 6. After receiving the badge, the server can be deleted
 
 ## First script.
-`npm run guild`
+`npm run guilds`
 This script will create the maximum possible number of servers and rules on these servers through the bot.
 After execution, you will see in the console the number of rules created by the bot.
 
@@ -46,7 +46,7 @@ After its execution, you will also see in the console the number of rules create
 6. После получения значка, сервера можно удалить
 
 ## Первый скрипт. 
-`npm run guild`
+`npm run guilds`
 Данный скрипт создаст через бота максимально возможное количество серверов и правила на этих серверах.
 После выполнения вы увидете в консоли количество созданных ботом правил.
 
